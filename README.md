@@ -1,4 +1,4 @@
-# Caffe-iOS
+# Caffe-metal_iOS
 
 Caffe-iOS is modifed from the master version of Caffe, a popular deep learning platform. It is designed for those inference tasks on mobile devices in iOS.
 
